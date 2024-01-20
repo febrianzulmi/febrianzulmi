@@ -20,7 +20,8 @@
     />
   </a>
 
-<a href="https://app.daily.dev/febrianzulmi10"><img src="https://api.daily.dev/devcards/8aada181f8474f958a8b4b5bfa5315fa.png?r=z51" width="400" alt="Febrian Zulmi's Dev Card"/></a>
+  <a href="https://app.daily.dev/febrianzulmi10"><img src="https://api.daily.dev/devcards/8aada181f8474f958a8b4b5bfa5315fa.png?r=z51" width="400" alt="Febrian Zulmi's Dev Card"/>
+  </a>
 </div>
 
 ## I am Ole-Martin Bratteng
