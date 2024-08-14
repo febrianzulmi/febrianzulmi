@@ -17,9 +17,9 @@ I have experience and expertise in several technology areas, including:
 
 - Programming Languages: I'm proficient in several programming languages such as  Programmable Logic Controller (PLC), C++ Arduino, Python, HTML, CSS, JavaScript, and PHP.
 - Front-end Development: I have experience in Front-end web application development using technologies like Python with GUI PYQT5, HTML, CSS, JavaScript, Node-Red Dashboard, and Flutter
-- Back-end Development: I'm also skilled in developing Back-end applications using several programming languages like Python and PHP.
+- Back-end Development: I'm also skilled in developing Back-end applications using several programming languages like Python, PHP, and Node JS.
 - Hardware Development: I have experience in developing hardware using programming languages like Programmable Logic Controller (PLC), SCADA Control Systems, HMI, And Microcontroller and Microprocessor Interface for IoT, and have knowledge about Machine Learning and MQTT.
-- Database: I have skills in designing and developing databases using MySQL and Firebase Database.
+- Database: I have skills in designing and developing databases using MySQL, MongoDB and Firebase Database.
 - Server: I'm an experienced NGINX server administrator. I have extensive experience in forwarding local IPs with NGINX proxy, installing and maintaining NGINX, and managing company domains.
 
 ## 💡Recent Projects
