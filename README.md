@@ -10,7 +10,7 @@
        alt="Febrian Zulmi's Dev Card"/>
   </a>
 </div>
-I specialize in software application development from both a Front-end and Back-end Engineer perspective, as well developing Internet of Things (IoT) applications. I am interested in a career in the field of Software and Hardware Engineering. My expertise includes microcontrollers (ESP, AVR, STM), Raspberry Pi, PLC, SCADA, IoT, Machine Learning and various communication protocols (MQTT, HTTP, RabbitMQ, Modbus, SPI, I2C, UART). I also proficients languages programming such as Python, PHP, JavaScript, and Arduino C++, as well as having the ability to draw Schematic circuit using EasyEDA, and Eagle creating 3D designs with Autodesk Fusion 360, as well as installing electronic components into the PCB using a solder and blower.
+I specialize in software application development from both a Front-end and Back-end Engineer perspective, as well developing Internet of Things (IoT) applications. I am interested in a career in the field of Software and Hardware Engineering. My expertise includes microcontrollers (ESP, AVR, STM), Raspberry Pi, and various communication protocols. I also proficients languages programming such as Python, PHP, JavaScript, and Arduino C++, as well as having the ability to draw Schematic circuit using EasyEDA, and Eagle creating 3D designs with Autodesk Fusion 360, as well as installing electronic components into the PCB using a solder and blower.
 
 ## ⚒️ Skills
 I have experience and expertise in several technology areas, including:
