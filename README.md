@@ -18,7 +18,7 @@ I have experience and expertise in several technology areas, including:
 - Programming Languages: I'm proficient in several programming languages such as  Python, C++ Arduino, HTML, CSS, JavaScript, PHP, etc
 - Front-end Development: I have experience in Front-end web application development using technologies like, HTML, CSS, JavaScript, Node-Red Dashboard, Grafana,  Python with GUI PYQT5 and Flutter, etc
 - Back-end Development: I'm also skilled in developing Back-end applications using several programming languages like Python, PHP, Node JS, etc
-- Framework and Library: Flask, Django, Laravel, NodeJS, ExpressJS,  HapiJS, Flutter, Tailwind CSS, Bootstrap CSS, DaisyUI, ChakraUI, JQuery, Axios, Scikit-Learn, Tensoflow, etc
+- Framework and Library: Flask, Django, Zephyr RTOS, Laravel, NodeJS, ExpressJS,  HapiJS, Flutter, Tailwind CSS, Bootstrap CSS, DaisyUI, ChakraUI, JQuery, Axios, Scikit-Learn, Tensoflow, etc
 - Hardware Development: I have experience in developing hardware using programming languages like Programmable Logic Controller (PLC), SCADA Control Systems, HMI, And Microcontroller and Microprocessor Interface for IoT, and have knowledge about Machine Learning and arious communication protocols MQTT, RabbitMQ, HTTP, Modbus, SPI, UART, I2C, etc.
 - Database: I have skills in designing and developing databases using SQL as like MySQL, PostgreSQL, MariaDB, InfluxDB etc and NoSQL as like MongoDB and Firebase Database.
 - Deployment: I have knowledge about Google Cloud Platrform (GCP), Amazon Web Services (AWS), Vercel, Netflify, etc.
