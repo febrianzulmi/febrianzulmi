@@ -17,7 +17,7 @@ My expertise includes microcontroller-based systems (ESP32/ESP8266, AVR, NRF, ST
 I have experience and expertise in several technology areas, including:
 
 ### 🔧 Embedded & Firmware Development
-- Microcontrollers: ARM Cortex-M–based MCUs (ESP, STM32, nRF) and 8-bit AVR microcontrollers
+- Microcontrollers & Microprocessors: ARM Cortex-M–based MCUs (ESP, STM32, nRF), 8-bit AVR microcontrollers, and ARM-based embedded Linux platforms (e.g., Raspberry Pi). 
 - Firmware Development: C/C++, Python, Arduino Framework, FreeRTOS, Zephyr RTOS,
 - Firmware Design: State Machine, Task-based Architecture, Watchdog, Logging
 - Sensor Integration & Data Acquisition
