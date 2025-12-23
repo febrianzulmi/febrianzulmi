@@ -11,7 +11,7 @@
   </a>
 </div>
 I am a Firmware and Embedded Systems Engineer with experience in developing reliable IoT and embedded applications, from device-level firmware to system integration.
-My expertise includes microcontroller-based systems (ESP32/ESP8266, AVR, NRF, STM32), Raspberry Pi, etc and industrial communication protocols. I primarily work with C/C++ and Python for firmware and backend development, and I have hands-on experience in designing firmware architectures, integrating sensors, handling device communication, and building offline-capable systems. I am also familiar with electronic schematic design, PCB assembly, and basic mechanical design for embedded devices.
+My expertise includes ARM Cortex-M–based MCUs (ESP, STM32, nRF), 8-bit AVR microcontrollers, and ARM-based embedded Linux platforms (e.g., Raspberry Pi) and various industrial communication protocols. I primarily work with C/C++ and Python for firmware and backend development, and I have hands-on experience in designing firmware architectures, integrating sensors, handling device communication, and building offline-capable systems. I am also familiar with electronic schematic design, PCB assembly, and basic mechanical design for embedded devices.
 
 ## ⚒️ Skills
 I have experience and expertise in several technology areas, including:
