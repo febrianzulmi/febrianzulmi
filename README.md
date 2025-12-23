@@ -10,21 +10,58 @@
        alt="Febrian Zulmi's Dev Card"/>
   </a>
 </div>
-I specialize in software application development from both a Front-end and Back-end Engineer perspective, as well developing Internet of Things (IoT) applications. I am interested in a career in the field of Software and Hardware Engineering. My expertise includes microcontrollers (ESP, AVR, STM), Raspberry Pi, and various communication protocols. I also proficients languages programming such as Python, PHP, JavaScript, and Arduino C++, as well as having the ability to draw Schematic circuit using EasyEDA, and Eagle creating 3D designs with Autodesk Fusion 360, as well as installing electronic components into the PCB using a solder and blower.
+I am a Firmware and Embedded Systems Engineer with experience in developing reliable IoT and embedded applications, from device-level firmware to system integration.
+My expertise includes microcontroller-based systems (ESP32/ESP8266, AVR, NRF, STM32), Raspberry Pi, etc and industrial communication protocols. I primarily work with C/C++ and Python for firmware and backend development, and I have hands-on experience in designing firmware architectures, integrating sensors, handling device communication, and building offline-capable systems. I am also familiar with electronic schematic design, PCB assembly, and basic mechanical design for embedded devices.
 
 ## ⚒️ Skills
 I have experience and expertise in several technology areas, including:
 
-- Programming Languages: I'm proficient in several programming languages such as  Python, C++ Arduino, HTML, CSS, JavaScript, PHP, etc
-- Front-end Development: I have experience in Front-end web application development using technologies like, HTML, CSS, JavaScript, Node-Red Dashboard, Grafana,  Python with GUI PYQT5 and Flutter, etc
-- Back-end Development: I'm also skilled in developing Back-end applications using several programming languages like Python, PHP, Node JS, etc
-- Framework and Library: Flask, Django, Zephyr RTOS, Laravel, NodeJS, ExpressJS,  HapiJS, Flutter, Tailwind CSS, Bootstrap CSS, DaisyUI, ChakraUI, JQuery, Axios, Scikit-Learn, Tensoflow, etc
-- Hardware Development: I have experience in developing hardware using programming languages like Programmable Logic Controller (PLC), SCADA Control Systems, HMI, And Microcontroller and Microprocessor Interface for IoT, and have knowledge about Machine Learning and arious communication protocols MQTT, RabbitMQ, HTTP, Modbus, SPI, UART, I2C, etc.
-- Database: I have skills in designing and developing databases using SQL as like MySQL, PostgreSQL, MariaDB, InfluxDB etc and NoSQL as like MongoDB and Firebase Database.
-- Deployment: I have knowledge about Google Cloud Platrform (GCP), Amazon Web Services (AWS), Vercel, Netflify, etc.
-- Server: I'm an experienced Apache and NGINX server administrator. I have extensive experience in forwarding local IPs, installing and maintaining server, and managing company domains.
+### 🔧 Embedded & Firmware Development
+- Microcontrollers: ARM Cortex-M–based MCUs (ESP, STM32, nRF) and 8-bit AVR microcontrollers
+- Firmware Development: C/C++, Python, Arduino Framework, FreeRTOS, Zephyr RTOS,
+- Firmware Design: State Machine, Task-based Architecture, Watchdog, Logging
+- Sensor Integration & Data Acquisition
 
-## 💡Recent Projects
+### 🔌 Device & Field-Level Communication
+- UART (MCU ↔ GSM/GPS/Debug)
+- I2C (Sensor & Peripheral Interface)
+- SPI (High-Speed Display & Storage)
+- 1-Wire (Temperature Probe)
+- Modbus RTU (RS485-based industrial devices)
+
+### 📡 Network & IoT Communication
+- MQTT (IoT telemetry & pub/sub messaging)
+- HTTP / REST API (Device configuration & data sync)
+- Modbus TCP/RTU (Ethernet-based SCADA integration)
+- Cellular (4G LTE)
+
+### 🌐 Local & Gateway Communication
+- Wi-Fi (TCP/IP)
+- Ethernet
+- Bluetooth Low Energy (BLE)
+
+### 🌐 IoT & System Integration
+- Device Telemetry & Offline Buffering
+- MQTT Broker (Mosquitto), REST API Integration
+- Raspberry Pi (Linux-based IoT gateway)
+- Dashboard & Monitoring: Node-RED, Grafana
+
+### 🧩 Software & Backend
+- Programming Languages: Python, C/C++, JavaScript, PHP
+- Frameworks: Flask, Django, Laravel, Node.js
+- Databases: MySQL, PostgreSQL, InfluxDB, MongoDB, Firebase
+
+### 🛠 Hardware, Tools & Deployment
+- Electronic Design: EasyEDA, Eagle (schematic & PCB)
+- PCB Assembly: THT/SMD soldering, rework using hot air blower
+- Mechanical Design: Autodesk Fusion 360
+- Cloud & Deployment: AWS, GCP, Docker
+- Server & Networking: Linux, Apache, NGINX
+
+## 💡Projects
+- Data Center Monitoring
+- GPS Tracker
+- Automatic Fish Feeding and fish pond monitoring 
 - System Weather Prediction IoT using Machine Learning and Deep Learning
 - Development of an Integrated Community Health Center Service System (Community Service Program/CSP)
 - Smart class using PLC and SCADA Control Systems 
